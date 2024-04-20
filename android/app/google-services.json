@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "423688034256",
+    "project_id": "oasis-347316",
+    "storage_bucket": "oasis-347316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423688034256:android:aec97333c948a9d8174bd5",
+        "android_client_info": {
+          "package_name": "com.oasis.livreur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423688034256-jnlb4veo85ovueg29babca3a1ql327rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoyazKNm6MCsrZl8yNJjm26Pr1_afAE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423688034256-jnlb4veo85ovueg29babca3a1ql327rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423688034256-17of9v5j3q6hooklgacia3ur1j8tsmeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oasis.livreur"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423688034256:android:cca638adc60755fa174bd5",
+        "android_client_info": {
+          "package_name": "com.oasis.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423688034256-kbirvr9d8n2v0t7rb7h8qjnoih6prrni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oasis.user",
+            "certificate_hash": "c385dd37d95bd3da75f8c211c1bb7d00b4ac32e7"
+          }
+        },
+        {
+          "client_id": "423688034256-jnlb4veo85ovueg29babca3a1ql327rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoyazKNm6MCsrZl8yNJjm26Pr1_afAE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423688034256-jnlb4veo85ovueg29babca3a1ql327rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423688034256-17of9v5j3q6hooklgacia3ur1j8tsmeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oasis.livreur"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423688034256:android:0bca7d419f5ade6c174bd5",
+        "android_client_info": {
+          "package_name": "com.oasis.vendeur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423688034256-jnlb4veo85ovueg29babca3a1ql327rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoyazKNm6MCsrZl8yNJjm26Pr1_afAE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423688034256-jnlb4veo85ovueg29babca3a1ql327rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423688034256-17of9v5j3q6hooklgacia3ur1j8tsmeh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oasis.livreur"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
